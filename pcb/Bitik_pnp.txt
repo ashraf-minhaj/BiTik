@@ -1,0 +1,51 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Bitik
+*Date=16:06:01
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;29.3656;-20.8715;90;Bottom;sensor
+2;;THT;29.3656;-18.3315;90;Bottom;analog
+3;;THT;80.1656;-29.7615;90;Bottom;J31
+4;;THT;54.8164;-20.9477;-90;Bottom;J6
+5;;THT;29.3656;-33.5715;90;Bottom;J18
+6;;THT;54.8164;-26.0277;-90;Bottom;J7
+7;;THT;54.791;-8.20965;90;Bottom;J1
+8;;THT;29.3656;-41.1915;90;Bottom;J21
+9;;;13.0611;-26.7486;0;Bottom;Micro SD TF module
+10;;THT;71.301;-9.47965;180;Bottom;J23
+11;;THT;80.1656;-37.3815;90;Bottom;J32
+12;;THT;54.8164;-31.1077;-90;Bottom;J8
+13;;THT;54.8164;-18.4077;-90;Bottom;servo
+14;;THT;54.8164;-23.4877;-90;Bottom;J5
+15;;THT;56.061;-38.6896;-90;Bottom;Aud-Out
+16;;THT;29.391;-14.5596;180;Bottom;J35
+17;;THT;29.3656;-38.6515;90;Bottom;J20
+18;;THT;54.8164;-28.5677;-90;Bottom;J9
+19;;THT;54.8164;-33.6477;-90;Bottom;J10
+20;;THT;80.1656;-22.1415;90;Bottom;J30
+21;;THT;64.951;-8.20965;90;Bottom;J22
+22;;THT;30.661;-8.20965;90;Bottom;J36
+23;;THT;29.3656;-25.9515;90;Bottom;BITIK by Ashraf Minhaj
+24;;jst-2-pth-kit;81.4401;-6.7988;0;Bottom;7-9v
+25;;THT;29.3656;-23.4115;90;Bottom;J15
+26;;THT;80.1656;-18.3315;90;Bottom;J34
+27;;THT;29.3656;-28.4915;90;Bottom;J16
+28;;THT;29.3656;-36.1115;90;Bottom;J19
+29;;THT;80.1656;-25.9515;90;Bottom;J26
+30;;THT;80.1656;-33.5715;90;Bottom;J27
+31;;THT;80.1656;-14.5215;90;Bottom;J33
+32;;;42.091;-25.9981;180;Bottom;Arduino Nano
+33;;;67.491;-26.6246;90;Bottom;HC05
+34;;THT;29.3656;-31.0315;90;Bottom;J17
+35;;THT;54.791;-10.7496;90;Bottom;J2
+36;;THT;80.1656;-41.1915;90;Bottom;J28
