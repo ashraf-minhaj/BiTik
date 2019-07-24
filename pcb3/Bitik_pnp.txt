@@ -1,0 +1,51 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Bitik
+*Date=15:58:56
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;29.3657;-41.1915;90;Bottom;J21
+2;;THT;29.3657;-18.3315;90;Bottom;analog
+3;;THT;54.8165;-20.9477;-90;Bottom;J6
+4;;;42.0911;-25.9981;180;Bottom;Arduino Nano
+5;;THT;54.8165;-18.4077;-90;Bottom;servo
+6;;THT;71.3011;-9.47965;180;Bottom;J23
+7;;THT;29.3657;-25.9515;90;Bottom;BITIK by Ashraf Minhaj
+8;;THT;54.8165;-28.5677;-90;Bottom;J9
+9;;THT;54.8165;-23.4877;-90;Bottom;J5
+10;;THT;80.1657;-33.5715;90;Bottom;J27
+11;;THT;54.8165;-26.0277;-90;Bottom;J7
+12;;THT;29.3657;-20.8715;90;Bottom;sensor
+13;;THT;54.7911;-10.7496;90;Bottom;J2
+14;;THT;64.9511;-8.20965;90;Bottom;J22
+15;;THT;80.1657;-22.1415;90;Bottom;J30
+16;;THT;80.1657;-14.5215;90;Bottom;J33
+17;;THT;80.1657;-25.9515;90;Bottom;J26
+18;;THT;29.3657;-31.0315;90;Bottom;J17
+19;;THT;30.6611;-8.20965;90;Bottom;J36
+20;;THT;54.8165;-33.6477;-90;Bottom;J10
+21;;THT;54.7911;-8.20965;90;Bottom;J1
+22;;THT;56.0611;-38.6896;-90;Bottom;Aud-Out
+23;;THT;80.1657;-18.3315;90;Bottom;J34
+24;;jst-2-pth-kit;81.4403;-6.79885;0;Bottom;7-9v
+25;;THT;29.3657;-36.1115;90;Bottom;J19
+26;;THT;29.3911;-14.5596;180;Bottom;J35
+27;;THT;29.3657;-23.4115;90;Bottom;J15
+28;;THT;54.8165;-31.1077;-90;Bottom;J8
+29;;THT;80.1657;-29.7615;90;Bottom;J31
+30;;;67.4911;-26.6246;90;Bottom;HC05
+31;;THT;29.3657;-33.5715;90;Bottom;J18
+32;;THT;29.3657;-38.6515;90;Bottom;J20
+33;;;13.0611;-26.7486;0;Bottom;Micro SD TF module
+34;;THT;80.1657;-41.1915;90;Bottom;J28
+35;;THT;29.3657;-28.4915;90;Bottom;J16
+36;;THT;80.1657;-37.3815;90;Bottom;J32
